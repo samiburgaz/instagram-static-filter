@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Instagram Static Filter",
+  "version": "0.1.4",
+  "description": "Show image posts and carousels in Instagram profile grids. Hide Reels with a reversible toggle.",
+  "minimum_chrome_version": "109",
+  "permissions": ["storage"],
+  "content_scripts": [{
+    "matches": ["https://www.instagram.com/*", "https://instagram.com/*"],
+    "js": ["classifier.js", "content.js", "bootstrap.js"],
+    "css": ["content.css"],
+    "run_at": "document_idle"
+  }]
+}

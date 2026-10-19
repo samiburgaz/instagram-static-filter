@@ -1,0 +1,8 @@
+{
+  "name": "instagram-static-filter",
+  "version": "0.1.4",
+  "private": true,
+  "description": "Filter Instagram profile grids to image posts and carousels.",
+  "scripts": { "test": "node --test tests/*.test.cjs" },
+  "devDependencies": { "jsdom": "^26.1.0" }
+}

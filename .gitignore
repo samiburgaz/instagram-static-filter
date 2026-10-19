@@ -1,0 +1,6 @@
+node_modules/
+test-results/
+*-preview.png
+DESIGN.md
+IMPLEMENTATION-PLAN.md
+TDD-RECORD.md
