@@ -50,6 +50,10 @@ npm test
 
 To load a local development copy, choose `extension/` in `chrome://extensions`. Reload the extension and refresh Instagram after editing it.
 
+## Support
+
+If Instagram Static Filter saves you time, you can [buy me a coffee](https://buymeacoffee.com/samiburgaz) to support improvements and more useful tools for creators. The extension remains free and open source; support is completely optional.
+
 ## License
 
 The original project code is licensed under the [MIT License](LICENSE). The screenshots are illustrative images of Adobe's public Instagram content and branding; those rights remain with Adobe and they are not covered by the repository's MIT license.
