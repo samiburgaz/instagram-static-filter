@@ -31,6 +31,8 @@ Examples from [Adobe's public Instagram profile](https://www.instagram.com/adobe
 | --- | --- | --- |
 | <img src="screenshots/posts-and-carousels.png" alt="Adobe Instagram profile filtered to show posts and carousels" width="300"> | <img src="screenshots/just-posts.png" alt="Adobe Instagram profile filtered to show single-image posts" width="300"> | <img src="screenshots/just-carousels.png" alt="Adobe Instagram profile filtered to show carousels" width="300"> |
 
+These examples display posts and branding from Adobe's public Instagram account. That content remains Adobe's; a license for this repository would cover only material the repository author has rights to license.
+
 Turn off **Static only** to restore the full grid. The filter is not applied to Instagram's home feed, Reels, or Tagged tabs.
 
 ## Privacy and permissions
