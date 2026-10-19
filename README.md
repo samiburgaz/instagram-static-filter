@@ -52,4 +52,4 @@ To load a local development copy, choose `extension/` in `chrome://extensions`. 
 
 ## License
 
-This repository currently has no license. It is publicly viewable; the default copyright remains in effect, so public visibility alone does not grant permission to reuse or redistribute the code.
+The original project code is licensed under the [MIT License](LICENSE). The screenshots are illustrative images of Adobe's public Instagram content and branding; those rights remain with Adobe and they are not covered by the repository's MIT license.
