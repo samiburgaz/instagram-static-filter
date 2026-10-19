@@ -23,6 +23,14 @@ Turn on **Static only**, then choose a filter:
 
 Identifiable Reels and videos are hidden in every mode. Unknown post types stay visible. The extension keeps the selected mode, supports three-, four-, and six-column grids, and preserves enough scroll space to let Instagram load more posts while filtering is active.
 
+## Screenshots
+
+Examples from [Adobe's public Instagram profile](https://www.instagram.com/adobe/) show how each mode changes the same grid:
+
+| Posts + Carousels | Just Posts | Just Carousels |
+| --- | --- | --- |
+| <img src="screenshots/posts-and-carousels.png" alt="Adobe Instagram profile filtered to show posts and carousels" width="300"> | <img src="screenshots/just-posts.png" alt="Adobe Instagram profile filtered to show single-image posts" width="300"> | <img src="screenshots/just-carousels.png" alt="Adobe Instagram profile filtered to show carousels" width="300"> |
+
 Turn off **Static only** to restore the full grid. The filter is not applied to Instagram's home feed, Reels, or Tagged tabs.
 
 ## Privacy and permissions
